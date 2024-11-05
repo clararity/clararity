@@ -1,4 +1,4 @@
-- Hi! I’m Clara
+- Hi! I’m Clara :D
 - My pronouns are she/her
 - I'm interested in game design and game development 
 - I'm currently learning Java and C, and software engineering
